@@ -1,0 +1,4 @@
+Election Sentiment Analysis
+
+This project scrapes twitter posts discussing Santa Cruz's Measure M. Using Scikit Learn,
+we perform sentiment analysis to determine how people will vote in the upcoming elections.
